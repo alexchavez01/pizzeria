@@ -1,0 +1,3 @@
+/Users/alexchavez/Desktop/Lab 10 (Pizza Lab)/cmake-build-debug/CMakeFiles/11_7_Lab_10__Pizza_Lab_.dir
+/Users/alexchavez/Desktop/Lab 10 (Pizza Lab)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alexchavez/Desktop/Lab 10 (Pizza Lab)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
